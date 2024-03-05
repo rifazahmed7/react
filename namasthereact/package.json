@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "ok",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/rifazahmed7/react/namasthereact"
+  },
+  "keywords": [
+    "AHAMMAD",
+    "RIFAZ"
+  ],
+  "author": "AHAMMAD RIFAZ",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}

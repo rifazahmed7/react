@@ -2,8 +2,10 @@
   "name": "react",
   "version": "1.0.0",
   "description": "ok",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
+    "start":"parcel index.html",
+    "build": "build parcel index.html",
     "test": "jest"
   },
   "repository": {
